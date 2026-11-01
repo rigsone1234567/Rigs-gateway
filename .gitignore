@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# RIGS Data (do not commit test logs)
+rigs_gateway_data/
+rigs_data/
+
+# Environment variables (API Keys)
+.env
